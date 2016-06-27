@@ -16,8 +16,9 @@ creator:
 - Create the TODO Views and add features
 
 ## COMPONENTS
+
 - Codealong
-- 
+
 ---
 
 # Steps To Reproduce
