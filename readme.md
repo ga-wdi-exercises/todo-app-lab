@@ -1,9 +1,24 @@
-# A Simple TODO app using the MEAN Stack and the Express Generator
+---
+title: A Simple TODO app using the MEAN Stack and the Express Generator
+duration: "1:25"
+creator:
+    name: Mike Hopper
+    city: Atlanta
+---
 
-This app was developed as part of the General Assembly WDI class in Atlanta, GA.
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) A Simple TODO app using the MEAN Stack and the Express Generator
 
-* Author: Dr. Mike Hopper
-* Date: May, 2016
+### LEARNING OBJECTIVES
+*After this lesson, you will be able to:*
+- Use the express generator to generate the project and add mongoose.
+- Create a model and seeds file
+- Create the routes and controller logic for our 7 RESTfull endpoints
+- Create the TODO Views and add features
+
+## COMPONENTS
+- Codealong
+- 
+---
 
 # Steps To Reproduce
 
